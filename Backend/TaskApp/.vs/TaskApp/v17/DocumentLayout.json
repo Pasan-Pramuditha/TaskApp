@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\models\\dtos\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\models\\dtos\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\models\\dtos\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\models\\dtos\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\models\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\models\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\models\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\models\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\data\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\data\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|d:\\telecom\\freelancer\\backend\\taskapp\\taskapp\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C004574E-5CB4-44DC-9465-03B15485FCF9}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Program.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Program.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Program.cs",
+              "RelativeToolTip": "TaskApp\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:56:32.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TaskApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:29:57.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:13:47.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\DTOs\\UserInfo.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Models\\DTOs\\UserInfo.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\DTOs\\UserInfo.cs",
+              "RelativeToolTip": "TaskApp\\Models\\DTOs\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:17:48.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\DTOs\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Models\\DTOs\\TokenRequest.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\DTOs\\TokenRequest.cs",
+              "RelativeToolTip": "TaskApp\\Models\\DTOs\\TokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:09:46.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskApp\\appsettings.json",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\appsettings.json",
+              "RelativeToolTip": "TaskApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T16:20:01.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Models\\DTOs\\LoginResponse.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "TaskApp\\Models\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:12:08.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Models\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "TaskApp\\Models\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:11:42.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Data\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Data\\DatabaseService.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Data\\DatabaseService.cs",
+              "RelativeToolTip": "TaskApp\\Data\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:55:22.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Models\\Product.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\Product.cs",
+              "RelativeToolTip": "TaskApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:45:58.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Models\\User.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\User.cs",
+              "RelativeToolTip": "TaskApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:45:26.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\Telecom\\Freelancer\\Backend\\TaskApp\\TaskApp\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "TaskApp\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:45:08.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
