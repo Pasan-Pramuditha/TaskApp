@@ -21,21 +21,21 @@ TaskApp/
 ├── Backend/
 │   └── TaskApp/
 │       ├── Controllers/
-│       │   ├── AuthController.cs       # Login, Register, Refresh, Logout endpoints
-│       │   ├── ProductsController.cs   # Secured production data endpoint
+│       │   ├── AuthController.cs       
+│       │   ├── ProductsController.cs   
 │       │   └── HomeController.cs
-│       ├── Models/                     # DTOs and domain models
-│       ├── Data/                       # DatabaseService (SQL connection factory)
-│       ├── Program.cs                  # DI, JWT config, CORS, Swagger
+│       ├── Models/                     
+│       ├── Data/                      
+│       ├── Program.cs                  
 │       └── appsettings.json
 └── Frontend/
     ├── src/
-    │   ├── api.js                      # Centralized Axios client with token refresh interceptor
-    │   ├── App.jsx                     # Routes (login / dashboard)
+    │   ├── api.js                     
+    │   ├── App.jsx                    
     │   └── components/
-    │       ├── Login.jsx               # SLT-themed login page
-    │       ├── Dashboard.jsx           # Protected dashboard with data table & logout modal
-    │       └── ProtectedRoute.jsx      # Route guard using access token
+    │       ├── Login.jsx             
+    │       ├── Dashboard.jsx          
+    │       └── ProtectedRoute.jsx      
     ├── index.html
     └── vite.config.js
 ```
